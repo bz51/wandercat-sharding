@@ -3,24 +3,24 @@
     <img src="wandercat-logo.jpg" />
 </p>
 
-WanderCat-Sharding is an smart but not simple distributed database middleware, as a JDBC driver extension. WanderCat-Sharding is considered as a micro-service-oriented java library, which provides sharding databases and tables, read/write splitting, and distributed sequence features, also provides the distributed transaction.
+WanderCat-Sharding is a smart but not simple distributed database middleware, as a JDBC driver extension. WanderCat-Sharding is considered as a micro-service-oriented java library, which provides sharding databases and tables, distributed sequence features, and provides the high-performance distributed transaction that based on Best Efforts 1PC.
 
 
 # Feature
-- **smart but not simple**<br/>
+- **Smart but not simple**<br/>
 WanderCat-Sharding uses the simplest way of implementation, and the code is easy to understand.
 
-- **detailed documentation**<br/>
+- **Detailed documentation**<br/>
 I'll document the key techniques, including distributed transactions, data sharding strategies, distributed ID generation policies, SQL routing, SQL syntax parsing, and so on.
 
 
-- **row-level data migration is avoided**<br/>
-Database expansion only requires table-level data migration, avoiding row-level data migration, thus greatly reducing the cost of data migration.
+- **No data migration is required**<br/>
+When the database needs to be extended, there is no need for any form of data migration, including table-level and row-level.
 
-- **distributed transaction**<br/>
-Distributed transaction using best efforts 1pc. The final consistency of data is realized under the premise of guaranteed performance.
+- **Distributed transaction**<br/>
+Distributed transaction bases on Best Efforts 1PC. The final consistency of data is realized under the premise of guaranteed performance.
 
-- **low maintenance cost**<br/>
+- **Low operation and maintenance cost**<br/>
 It is simply a JDBC driver extension, not a database proxy, so no additional deployment is required, simple to use.
 
 # About me
