@@ -1,9 +1,9 @@
 # WanderCat-Sharding [![Build Status](https://api.travis-ci.org/bz51/wandercat-sharding.svg?branch=master)](https://travis-ci.org/bz51/wandercat-sharding) [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
-WanderCat-Sharding is an smart but not simple distributed database middleware, as a JDBC driver extension. WanderCat-Sharding is considered as a micro-service-oriented java library, which provides sharding databases and tables, read/write splitting, and distributed sequence features, also provides the distributed transaction.
-
 <p align="center">
     <img src="wandercat-logo.jpg" />
 </p>
+
+WanderCat-Sharding is an smart but not simple distributed database middleware, as a JDBC driver extension. WanderCat-Sharding is considered as a micro-service-oriented java library, which provides sharding databases and tables, read/write splitting, and distributed sequence features, also provides the distributed transaction.
 
 
 # Feature
