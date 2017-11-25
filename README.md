@@ -1,4 +1,4 @@
-# WanderCat-Sharding [![Build Status](https://api.travis-ci.org/bz51/wandercat-sharding.svg?branch=master)](https://travis-ci.org/bz51/wandercat-sharding) [![Coverage Status](https://coveralls.io/repos/github/apache/rocketmq/badge.svg?branch=master)](https://coveralls.io/github/apache/rocketmq?branch=master) [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+# WanderCat-Sharding [![Build Status](https://api.travis-ci.org/bz51/wandercat-sharding.svg?branch=master)](https://travis-ci.org/bz51/wandercat-sharding) [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 <p align="center">
     <img src="wandercat-logo.jpg" />
 </p>
@@ -22,7 +22,8 @@ Distributed transaction using best efforts 1pc. The final consistency of data is
 It is simply a JDBC driver extension, not a database proxy, so no additional deployment is required, simple to use.
 
 # About me
-
+- [Blog:www.chaimm.com](http://www.chaimm.com)
+- Mail:chaibozhou@foxmail.com
 
 # License
 This project is licensed under the Apache License 2.0 License - see the [LICENSE.md](https://github.com/bz51/wandercat-sharding/blob/master/LICENSE) file for details
